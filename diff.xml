@@ -7,6 +7,9 @@
       <entry key="Default">
         <PlaceSettings />
       </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings />
+      </entry>
     </option>
   </component>
   <component name="TextDiffSettings">
@@ -24,7 +27,7 @@
       <entry key="Default">
         <PlaceSettings />
       </entry>
-      <entry key="Merge">
+      <entry key="TestsFiledAssertions">
         <PlaceSettings />
       </entry>
     </option>
