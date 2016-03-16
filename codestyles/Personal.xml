@@ -1,6 +1,11 @@
 <code_scheme name="Personal">
   <option name="RIGHT_MARGIN" value="500" />
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html" />
+  <CssCodeStyleSettings>
+    <option name="HEX_COLOR_LOWER_CASE" value="true" />
+    <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
+    <option name="VALUE_ALIGNMENT" value="2" />
+  </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
     <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
