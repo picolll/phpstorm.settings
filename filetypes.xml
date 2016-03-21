@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="CategoryService" type="JavaScript" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
